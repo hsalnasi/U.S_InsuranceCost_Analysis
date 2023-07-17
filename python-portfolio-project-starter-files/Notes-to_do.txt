@@ -1,0 +1,7 @@
+1 - relationship between age and cost 
+
+2- seperate childless - has children  -> count mean -> visualize
+
+3 - clean data (fix capitaization etc ) -> DONE
+
+4 - unique reigon
