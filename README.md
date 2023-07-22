@@ -1,5 +1,5 @@
 # U.S Insurance Cost Analysis 
-a simple analysis done by @hsalnasi And 
+a simple analysis was done by @hsalnasi And @Pouria-Zarrin
 # Introduction 
 Given a [*CSV file*](insurance.csv) as our dataset containing information about U.S medical insurance cost, The goal of the project is to extract new pieces of information and to see if the cost is related to a couple of factors `(Age - Sex - health status)`.  
 
